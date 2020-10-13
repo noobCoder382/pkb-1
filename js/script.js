@@ -162,7 +162,7 @@ function $showResults(appState){
 		let endMsg = `You got ${appState.percCorrect}% correct!`
 		let endFeedback = `Badhai ho Mummy You won! here is the secret link :p -`;
 		if(appState.progress.incorrectCategories.length === 0){
-			endFeedback = `Badhaiyan Badhaiyan Badhaiyan! Janamdin ki gaadha gaadha badhaai!!!!!!!!!!!!!, we don't have something for you here!<a href="www.priyanshisharma.me">Chalo dekhey kya hai!!!!</a>`;
+			endFeedback = `Badhaiyan Badhaiyan Badhaiyan! Janamdin ki gaadha gaadha badhaai!!!!!!!!!!!!!, we don't have something for you here!"<a href = "https://priyanshisharma.me" >Chalo dekhey???????</a>"`;
 		} else {
 			endFeedback = `You Lost Priyanshi Ji!!!!!!! chalo kuch aur bhi dekhey "<a href = "https://priyanshisharma.me" >kya hai???????</a>"`;
 		}
