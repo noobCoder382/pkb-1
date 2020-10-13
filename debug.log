@@ -1,0 +1,4 @@
+[1013/181946.041:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1013/181946.201:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\asus\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\66966d64-2820-4590-aa79-3e63b8b7d579: The system cannot find the path specified. (0x3)
+[1013/195956.825:ERROR:settings.cc(320)] Settings magic is not 1129342067
+[1013/200957.340:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
